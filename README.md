@@ -14,4 +14,4 @@ Not quite sure yet, but you'll need lots of Linux and Python packages. List comi
 
 ## Inline Query
 
-![Inline query image](https://raw.githubusercontent.com/jassler/latexbot/master/res/inline_query.jpg)
+![Inline query image](https://raw.githubusercontent.com/jassler/latexbot/master/res/inline.jpg)
