@@ -1,3 +1,7 @@
+# DEPRECATED
+# View mathrenderer.py for current implementation.
+# This is kept here, because I liked the prospect of generating pngs from latex files.
+
 import os
 from pathlib import Path
 from PIL import Image
